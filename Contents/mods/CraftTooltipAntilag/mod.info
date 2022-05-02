@@ -1,0 +1,5 @@
+name=Crafting Contextmenu Antilag [41.69]
+id=CraftTooltipAntilag
+description=Experimental mod to address the stuttering when the crafting tooltip is shown, e.g. for ripping clothes, dismantling watches.
+poster=poster.png
+versionMin=41.68
